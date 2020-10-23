@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="teamTextSize">25sp</dimen>
+    <dimen name="scoreTextSize">80sp</dimen>
+    <dimen name="paddingTeam">32dp</dimen>
+    <dimen name="paddingBottom">24dp</dimen>
+    <dimen name="layoutMarginBottom">20dp</dimen>
+    <dimen name="layoutMarginEnd">16dp</dimen>
+    <dimen name="layoutMarginLeft">24dp</dimen>
+    <dimen name="layoutMarginRight">24dp</dimen>
+    <dimen name="layoutMarginStart">16dp</dimen>
+    <dimen name="layoutMarginTop">20dp</dimen>
+</resources>

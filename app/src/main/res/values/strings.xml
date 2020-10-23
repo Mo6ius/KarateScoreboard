@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Karate Scoreboard</string>
+    <string name="larusso">LaRusso</string>
+    <string name="cobrakai">Cobra Kai</string>
+    <string name="displayScoreLR">0</string>
+    <string name="displayScoreCK">0</string>
+    <string name="stop">Yame</string>
+    <string name="crossBlock">Kosa-uke</string>
+    <string name="frontKick">Mae-geri</string>
+    <string name="knifeHandStrike">Shuto-uchi</string>
+    <string name="kneeSmash">Hiza-ate</string>
+
+</resources>
